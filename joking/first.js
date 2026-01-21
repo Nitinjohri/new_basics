@@ -12,6 +12,3 @@ console.log(isStudent)
 console.log(username.value)
 console.log(email.value)
 console.log(password.value)
-console.log(country)
-
-// This is second.js file
